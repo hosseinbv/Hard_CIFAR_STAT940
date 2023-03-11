@@ -14,3 +14,4 @@
 
 To run the code, first make an env and run: pip install -r requirements.txt
 then, run train.py in the same env.
+Download the data here: https://www.kaggle.com/t/9ae1b02e3e56469d81d1ed946aae3cf3 
